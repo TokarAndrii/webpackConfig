@@ -1,0 +1,1 @@
+This is test webpack config app with using babel-loader module and HtmlWebpackPlugin plugin
